@@ -34,7 +34,6 @@ Copy code
 MONGODB_URI=<Your MongoDB connection string>
 PORT=3000
 Replace <Your MongoDB connection string> with the URI of your MongoDB instance.
-Testing the API: Use the following Postman collection link to access all API endpoints and test the coupon functionalities: https://api.postman.com/collections/37896275-02e4a60d-328a-4cf9-9bf0-362d96637283?access_key=PMAT-01J9M4S3G6E50SG25FSDMSTKQ5
 
 
 Coupon Management System
